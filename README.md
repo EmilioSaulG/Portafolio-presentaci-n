@@ -23,4 +23,5 @@ Un sitio web atractivo y funcional puede marcar la diferencia para llegar a más
 ├── index.html        # Página principal
 ├── style.css         # Estilos principales
 ├── app.js            # Funcionalidades JS
-└── assets/           # Imágenes y recursos
+├── assets/           # Imágenes y recursos
+└── about.html        # Página secundaria
