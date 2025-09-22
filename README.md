@@ -4,7 +4,7 @@ Este es mi portafolio de presentación, creado con tecnologías web modernas par
 
 ## 🚀 Tecnologías utilizadas
 - **HTML5** para la estructura del sitio  
-- **CSS3** (Flexbox y variables personalizadas) para los estilos  
+- **CSS3** (Flexbox, variables personalizadas y responsive design) para los estilos  
 - **JavaScript** para la interactividad  
 - **Diseño responsivo** para que se adapte a diferentes dispositivos  
 
@@ -19,3 +19,8 @@ Un sitio web atractivo y funcional puede marcar la diferencia para llegar a más
 - Secciones pensadas para presentación personal y contacto  
 
 ## 📂 Estructura del proyecto
+```bash
+├── index.html        # Página principal
+├── style.css         # Estilos principales
+├── app.js            # Funcionalidades JS
+└── assets/           # Imágenes y recursos
